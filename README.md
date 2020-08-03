@@ -6,7 +6,7 @@ My name is Elana and I'm a full stack software engineer, leaning toward the fron
 - 🏖 Taking a break from work, but starting to look for the next opportunity
 - 👾 Writing a sci-fi novel
 - 🍅 Waiting for my tomatoes to be ready to eat
-- 🧠 Digging deeper into SQL (Yay Udemy)
+- 🧠 Digging deeper into SQL
 - 🦦 Working on an AWS Developer Associate certification
 - 🖋 Learning calligraphy so I can write trite motivational messages on everything
 ### 🛠 Languages and tools I've worked with...
