@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elana and I'm a full stack software engineer, leaning toward the frontend.
+My name is Elana and I'm a software engineer!
 
 ### 🔭 I’m currently...
 - 🏖 Taking a break from work
