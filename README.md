@@ -3,10 +3,8 @@
 My name is Elana and I'm a software engineer!
 
 ### 🔭 I’m currently...
-- 🏖 Taking a break from work
+- 🏖 Working at Shopify
 - 👾 Writing a sci-fi novel
-- 🍅 Harvesting tomatoes
-- 🧠 Digging deeper into systems design
 - 🖋 Practicing calligraphy so I can write trite motivational messages for friends and family
 
 ### 🛠 Languages and tools I've worked with...
