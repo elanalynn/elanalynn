@@ -3,9 +3,9 @@
 My name is Elana and I'm a software engineer!
 
 ### 🔭 I’m currently...
-- 🏖 Working at Shopify
+- 🛍 Working at Shopify
 - 👾 Writing a sci-fi novel
-- 🖋 Practicing calligraphy so I can write trite motivational messages for friends and family
+- 🖋 Learning calligraphy
 
 ### 🛠 Languages and tools I've worked with...
 JavaScript, TypeScript, React, Ruby on Rails, Angular & AngularJS, Node, Express, Python, CSS & SCSS, SQL, REST, GraphQL, Jenkins, CircleCI, Docker, Heroku, Netlify, AWS
