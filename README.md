@@ -8,7 +8,10 @@ My name is Elana and I'm a software engineer!
 - 🖋 Learning calligraphy
 
 ### 🛠 Languages and tools...
-JS, TS, React, Angular/AngularJS, Ruby/Rails, Node, Express, Python, CSS/SCSS, SQL, REST, GraphQL, Jenkins, CircleCI, Docker, Heroku, Netlify, AWS
+- JS, TS, React, Angular/AngularJS, CSS/SCSS
+- Ruby/Rails, Node, Express, Python
+- SQL, REST, GraphQL, Apollo
+- Jenkins, CircleCI, Heroku, Netlify, AWS
 
 ### 🤩 I'm excited about.. 
 -  💙 Design Systems
