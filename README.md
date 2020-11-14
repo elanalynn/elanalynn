@@ -6,7 +6,7 @@ My name is Elana and I'm a software engineer!
 - 🛍 Working at Shopify
 - 🏠 Staying home
 - 📖 Writing a novel
-- 🖼 Making Art
+- 🖼 Making art
 
 ### 🛠 Languages and tools...
 - JS, TS, React, Angular, CSS/SCSS
