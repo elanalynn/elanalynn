@@ -4,14 +4,15 @@ My name is Elana and I'm a software engineer!
 
 ### 🔭 I’m currently...
 - 🛍 Working at Shopify
-- 👾 Writing a sci-fi novel
-- 🖋 Learning calligraphy
+- 🏠 Staying home
+- 📖 Writing a novel
+- 🖼 Making Art
 
 ### 🛠 Languages and tools...
-- JS, TS, React, Angular/AngularJS, CSS/SCSS
+- JS, TS, React, Angular, CSS/SCSS
 - Ruby/Rails, Node, Express, Python
 - SQL, REST, GraphQL, Apollo
-- Jenkins, CircleCI, Heroku, Netlify, AWS
+- Jenkins, CircleCI, Heroku, AWS
 
 ### 🤩 I'm excited about.. 
 -  💙 Design Systems
