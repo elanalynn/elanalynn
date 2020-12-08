@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-My name is Elana and I'm a software engineer!
+My name is Elana and I'm a software engineer.
 
 ### 🔭 I’m currently...
-- 🛍 Working at Shopify
-- 🏠 Staying home
-- 📖 Writing a novel
-- 🖼 Making art
-
-### 🛠 Languages and tools...
-- JS, TS, React, Angular, CSS/SCSS
-- Ruby/Rails, Node, Express, Python
-- SQL, REST, GraphQL, Apollo
-- Jenkins, CircleCI, Heroku, AWS
+- 🏰 Working at Shopify 🛍
+- 🏠 Staying home 😷
+- 📖 Writing a novel 🖋
+- 🖼 Making art 🎨
 
 ### 🤩 I'm excited about.. 
 -  💙 Design Systems
