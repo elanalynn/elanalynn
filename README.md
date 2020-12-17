@@ -3,10 +3,10 @@
 My name is Elana and I'm a software engineer.
 
 ### 🔭 I’m currently...
-- 🏰 Working at Shopify 🛍
-- 🏠 Staying home 😷
-- 📖 Writing a novel 🖋
-- 🖼 Making art 🎨
+- 🏰 Shopifying 🛍
+- 🏠 Distancing 😷
+- 📖 Writing 🖋
+- 🖼 Arting 🎨
 
 ### 🤩 I'm excited about.. 
 -  💙 Design Systems
