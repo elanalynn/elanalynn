@@ -3,19 +3,17 @@
 My name is Elana and I'm a software engineer.
 
 ### 🔭 I’m currently...
-- 🏰 Shopifying 🛍
-- 🏠 Distancing 😷
-- 📖 Writing 🖋
-- 🖼 Arting 🎨
+- Working on extensibility at 🛍  Shopify 🛍 
+- Staying home 🏠 😷
+- (thinking about)📝 Writing 📝 
+- Making 🎨 art 🎨 and building a [shop](https://kopelevich.co/collections/elanas-art) for it
 
 ### 🤩 I'm excited about.. 
--  💙 Design Systems
--  🕹 UX, A11Y, DX
--  👩🏻‍🎤 SCSS
--  📖 Reading
--  🖋 Writing
+-  💙 Building design systems
+-  🕹 Improving UX in all it's aspects (A11Y, DX, etc.)
+-  📖 Reading (friend on me [Goodreads](https://www.goodreads.com/user/show/1725113-elana-kopelevich))
+-  🖋 Writing (just need to do it!)
 -  🐷 Being nice to animals
--  🍿 Animation
 
 ### 📫 How to reach me
   - Message me on [LinkedIn](https://www.linkedin.com/in/elanalynn/)
