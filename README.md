@@ -4,7 +4,7 @@ My name is Elana and I'm a software engineer.
 
 ### 🔭 I’m currently...
 - Working on extensibility at 🛍  Shopify 🛍 
-- Planting trees 🌳
+- Planting trees 🌳🌳🌳
 - (thinking about)📝 Writing 📝 
 - Making 🎨 art 🎨 and building a [shop](https://kopelevich.co/collections/elanas-art) for it
 
