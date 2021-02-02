@@ -11,7 +11,7 @@ My name is Elana and I'm a software engineer.
 ### 🤩 I'm excited about.. 
 -  💙 Building design systems
 -  🕹 Improving UX in all it's aspects (A11Y, DX, etc.)
--  📖 Reading (friend on me [Goodreads](https://www.goodreads.com/user/show/1725113-elana-kopelevich))
+-  📖 Reading ([Goodreads](https://www.goodreads.com/user/show/1725113-elana-kopelevich))
 -  🖋 Writing (just need to do it!)
 -  🐷 Being nice to animals
 
