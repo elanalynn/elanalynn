@@ -6,6 +6,7 @@ My name is Elana and I'm a software engineer.
 - 🛍 &nbsp;Working on extensibility at Shopify 
 - 🍅 &nbsp;Farming
 - 📝 &nbsp;Writing 
+- 🧑‍🏫 &nbsp;Teaching
 - 🎨 &nbsp;Creating and [selling](https://kopelevich.co/collections/elanas-art) art
 
 ### 🤩 I'm excited about.. 
