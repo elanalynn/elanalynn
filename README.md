@@ -3,7 +3,7 @@
 My name is Elana and I'm a software engineer.
 
 ### 🔭 I’m currently...
-- 🛍 &nbsp;Working on extensibility at Shopify 
+- 🛍 &nbsp;Working at Shopify 
 - 🍅 &nbsp;Farming
 - 📝 &nbsp;Writing 
 - 🧑‍🏫 &nbsp;Teaching
