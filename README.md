@@ -3,16 +3,16 @@
 My name is Elana and I'm a software engineer.
 
 ### 🔭 I’m currently...
-- 🛍 &nbsp;Working at Shopify 
+- 🛍 &nbsp;Coding (at Shopify)
 - 🍅 &nbsp;Farming
 - 📝 &nbsp;Writing 
 - 🧑‍🏫 &nbsp;Teaching
-- 🎨 &nbsp;Creating and [selling](https://kopelevich.co/collections/elanas-art) art
+- 🎨 &nbsp;Arting ([Buy prints here)](https://kopelevich.co/collections/elanas-art)
 
 ### 🤩 I'm excited about.. 
 - 💙 &nbsp;Building design systems
 - 🕹 &nbsp;Improving all user experiences
-- 📖 &nbsp;Reading ([Goodreads](https://www.goodreads.com/user/show/1725113-elana-kopelevich))
+- 📖 &nbsp;Reading
 - 🖋 &nbsp;Writing
 - 🐷 &nbsp;Being nice to animals
 
