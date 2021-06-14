@@ -7,7 +7,7 @@ My name is Elana and I'm a software engineer.
 - 🍅 &nbsp;Farming
 - 📝 &nbsp;Writing 
 - 🧑‍🏫 &nbsp;Teaching
-- 🎨 &nbsp;Arting ([Buy prints here])(https://kopelevich.co/collections/elanas-art)
+- 🎨 &nbsp;Arting ([Buy prints here](https://kopelevich.co/collections/elanas-art))
 
 ### 🤩 I'm excited about.. 
 - 💙 &nbsp;Building design systems
