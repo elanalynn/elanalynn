@@ -6,7 +6,7 @@ My name is Elana.
 - 🛍 &nbsp;Working on extensibility at Shopify
 - 📝 &nbsp;Writing sci-fi and short stories
 - 🧑‍🏫 &nbsp;Teaching kids to code
-- 🎨 &nbsp;Making art ([Buy prints here](https://veryuniqueart.com/collections/elanas-art))
+- 🎨 &nbsp;Making art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
 
 ### 🤩 I'm excited about.. 
 - 💙 &nbsp;Design systems
