@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elana and I'm a software engineer.
+My name is Elana.
 
 ### 🔭 I’m currently...
 - 🛍 &nbsp;Working on extensibility at Shopify
