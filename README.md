@@ -4,7 +4,7 @@ My name is Elana.
 
 ### 🔭 I’m currently...
 - 🛍 &nbsp;Working on extensibility at Shopify
-- 📝 &nbsp;Writing sci-fi and short stories
+- 📝 &nbsp;Writing SFF and essays
 - 🧑‍🏫 &nbsp;Teaching kids to code
 - 🎨 &nbsp;Making art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
 
