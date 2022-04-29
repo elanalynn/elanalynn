@@ -3,9 +3,9 @@
 My name is Elana.
 
 ### 🔭 I’m currently...
-- 🛍 &nbsp;Working on app libraries and tooling at Shopify
-- 📝 &nbsp;Writing speculative stories about the future
-- 🧑‍🏫 &nbsp;Teaching smart, curious kids how to code
+- 🛍 &nbsp;Working at Shopify
+- 📝 &nbsp;Writing stories
+- 🧑‍🏫 &nbsp;Teaching kids to code
 - 🎨 &nbsp;Creating art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
 
 ### 🤩 I'm into... 
