@@ -15,6 +15,6 @@ My name is Elana.
 - 🐷 &nbsp;Being nice to animals
 
 ### 📫 How to reach me
-  - Message me on [LinkedIn](https://www.linkedin.com/in/elanalynn/)
+  - Send me a message [here](https://www.elanakopelevich.com/connect)
 
 ### 😄 Pronouns: she / her
