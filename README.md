@@ -10,11 +10,9 @@ My name is Elana.
 
 ### 🤩 I'm into... 
 - 💙 &nbsp;Design systems and UX
-- 📖 &nbsp;Reading all the things
-- 👩🏻‍🎓 &nbsp;Learning every day
+- 📖 &nbsp;Reading
+- 👩🏻‍🎓 &nbsp;Learning
 - 🐷 &nbsp;Being nice to animals
 
 ### 📫 How to reach me
   - Send me a message [here](https://www.elanakopelevich.com/connect)
-
-### 😄 Pronouns: she / her
