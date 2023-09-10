@@ -3,14 +3,15 @@
 My name is Elana.
 
 ### 🔭 I’m currently...
-- 🛍 &nbsp;Working at Shopify
-- 📝 &nbsp;Writing stories
-- 🧑‍🏫 &nbsp;Teaching kids to code
-- 🎨 &nbsp;Creating art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
+- 🐿️ &nbsp;Making [Mooshy & Co.](https://mooshyandco.com) comics
+- 🛍 &nbsp;Working on extensiblity at Shopify
+- 📝 &nbsp;Writing stories and a novel
+- 🎨 &nbsp;Making art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
 
 ### 🤩 I'm into... 
-- 💙 &nbsp;Design systems and UX
+- 💙 &nbsp;Design systems
 - 📖 &nbsp;Reading
+- 🖋️ &nbsp;Writing
 - 👩🏻‍🎓 &nbsp;Learning
 - 🐷 &nbsp;Being nice to animals
 
