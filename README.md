@@ -9,10 +9,10 @@ My name is Elana.
 - 🎨 &nbsp;Making art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
 
 ### 🤩 I'm into... 
-- 💙 &nbsp;Design systems
 - 📖 &nbsp;Reading
 - 🖋️ &nbsp;Writing
 - 👩🏻‍🎓 &nbsp;Learning
+- 🎸 &nbsp;Music
 - 🐷 &nbsp;Being nice to animals
 
 ### 📫 How to reach me
