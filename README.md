@@ -6,7 +6,7 @@ My name is Elana.
 - 🐿️ &nbsp;Making [Mooshy & Co.](https://mooshyandco.com) comics
 - 🛍 &nbsp;Working on extensibility at Shopify
 - 📝 &nbsp;Writing intermittently
-- 🚂 &nbsp;Occupying my time with other nonsense projects
+- 🎸 &nbsp;Playing music
 - 🎨 &nbsp;Making art ([buy prints here](https://veryuniqueart.com/collections/elanas-art))
 
 ### 🤩 I'm into... 
